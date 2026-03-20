@@ -1,4 +1,4 @@
-# todo
+# Simple todo
 
-A new Flutter project.
+This is simple todo list. With using state manager: "bloc".
 # simple_todo
